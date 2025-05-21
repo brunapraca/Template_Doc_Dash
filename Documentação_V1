@@ -1,0 +1,22 @@
+# Guia de Uso do Dashboard: {{NOME_DASHBOARD}}
+
+## 1. Visão Geral
+Escreva aqui uma descrição breve sobre o propósito do dashboard, suas principais métricas e público-alvo.
+
+## 2. Número de Visualizações
+- Total de gráficos: {{NUM_VISUALIZACOES}}
+- Total de dashboards relacionados: {{NUM_DASHBOARDS}}
+
+## 3. Campos Calculados Aninhados
+Liste os campos calculados que fazem referência a outros campos:
+{{LISTA_CAMPOS_CALCULADOS}}
+
+## 4. Filtros Utilizados
+Descreva quais filtros usam esses campos:
+{{LISTA_FILTROS}}
+
+## 5. Instruções de Uso
+Passo a passo para acessar, filtrar e interpretar os dados.
+
+## 6. Troubleshooting
+Dicas de como resolver erros comuns ou onde buscar ajuda.
